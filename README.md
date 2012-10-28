@@ -1,4 +1,5 @@
 Image-Segmentation
 ==================
 
-Automatic detection and correction of misspelled words by using a dictionary of word frequencies Concepts used: dynamic programming and Levenstein distance
+Image segmentation application for identifying background and foreground objects by using Gaussian and Markov Random Fields probabilistic models , Edmond-Karp/Dinic max flow
+algorithms, minimum cut
